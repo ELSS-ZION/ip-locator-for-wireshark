@@ -2,7 +2,8 @@
 
 Wireshark 辅助工具
 
-通过爬取 http://ip.aa2.cn/ 实现批量 ip 反查域名
+解析WireShark抓包JSON文件，通过爬取 http://ip.aa2.cn/ 实现批量 ip 反查域名
+
 
 ## 使用
 
